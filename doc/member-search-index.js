@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.annotation.AnnotationTest","c":"App","l":"App()","u":"%3Cinit%3E()"},{"p":"com.annotation.AnnotationTest","c":"App","l":"display()"},{"p":"com.annotation.AnnotationTest","c":"App","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"com.annotation.AnnotationTest","c":"App","l":"printMsg()"}];updateSearchResults();
